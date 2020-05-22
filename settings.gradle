@@ -1,0 +1,2 @@
+rootProject.name='Famous Author Quotes'
+include ':app'
